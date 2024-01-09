@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "name": "cypress-prueba",
+  "version": "1.0.0",
+  "description": "Testing pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGJuanGalvis/Cypress.git"
+  },
+  "keywords": [
+    "Cypress",
+    "Prueba"
+  ],
+  "author": "juan G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGJuanGalvis/Cypress/issues"
+  },
+  "homepage": "https://github.com/JGJuanGalvis/Cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
